@@ -1,0 +1,4 @@
+pandas
+streamlit
+crawl4ai==0.5.0.post2 
+pip install playwright==1.39.0
