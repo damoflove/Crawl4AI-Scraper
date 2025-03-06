@@ -5,7 +5,11 @@ This Zillow Scraper is a Python-based web scraper built with crawl4ai, asyncio, 
 
 ⚡ Features
 ✅ Asynchronous Crawling – Uses AsyncWebCrawler for efficient scraping.
+
 ✅ Bypasses Cloudflare & Anti-Bot Protection – Supports proxies and headless browsing.
+
 ✅ Extracts Key Property Data – Retrieves price, address, beds, baths, square footage, and links.
+
 ✅ User-Friendly Interface – Built with Streamlit for an interactive experience.
+
 ✅ Export Data as CSV – Easily download scraped listings.
